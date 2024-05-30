@@ -28,6 +28,7 @@ Generally, links are organized from bottom to top with bottom being more recent.
 - [HashBuster](https://github.com/s0md3v/Hash-Buster) - Speedy hash cracking. *([Solanaceae](https://github.com/Atropa-Solanaceae))*
 - [Necro](https://github.com/muraenateam/necrobrowser) - Necromantic session control. *([Solanaceae](https://github.com/Atropa-Solanaceae))*
 - [FastForward](https://github.com/FastForwardTeam/FastForward) - Pay-per-link bypassing browser extension *([Solanaceae](https://github.com/Atropa-Solanaceae))*
+- [BountyForOne](https://github.com/Papurudoragon/bountyforone) - recon tool for bug bounties *(Dystortion)*
 
 ## Web Tools & Services
 - [freedomain.one](https://freedomain.one/) - a great website for relatively anonymous and free domains, no payment methods required. *([Soulsender](https://github.com/Soulsender))*
@@ -61,7 +62,7 @@ Generally, links are organized from bottom to top with bottom being more recent.
 - [0x0](https://0x0.st/) - The null pointer, small simple commandline file transmission. *([Solanaceae](https://github.com/Atropa-Solanaceae))*
 - [JobSearch](https://github.com/poteto/hiring-without-whiteboards) - Companies that don't have a broken hiring process. *([Solanaceae](https://github.com/Atropa-Solanaceae))*
 - [LeakScraper](https://github.com/Acceis/leakScraper) - LeakScraper is an efficient set of tools to process and visualize huge text files containing credentials. *([Solanaceae](https://github.com/Atropa-Solanaceae))*
-
+- [FlowCV Resume Builder](https://app.flowcv.com/dashboard) - resume builder *(Anubis)*
 
 ## Darkweb
 > WE ARE NOT RESPONSIBLE FOR MISUSE. USE AT YOUR OWN RISK. IF YOU DO NOT KNOW WHAT YOU ARE DOING, DON'T DO IT.
@@ -112,6 +113,7 @@ Generally, links are organized from bottom to top with bottom being more recent.
 - [Linux Privilege Escalation for Beginners](https://www.youtube.com/watch?v=ZTnwg3qCdVM) - *(Haze)*
 - [DDoSing Bluetooth Devices](https://privsec.dev/posts/android/banking-applications-compatibility-with-grapheneos/) - how to ddos the very insecure bluetooth protocol - *([Soulsender](https://github.com/Soulsender))*
 - [Downloading files without curl or wget](https://twitter.com/0dayCTF/status/1637811331335069697?s=20) - living off the land technique. *(0Day)*
+- [Guide to writing sockets in C](https://beej.us/guide/bgnet/html//index.html) - a tutorial on writing TCP/IP sockets in C *([Soulsender](https://github.com/Soulsender))*
 
 ## Books
 - [PDFDrive](https://www.pdfdrive.com/) - massive collection of free PDFs. *(Ibijon)*
@@ -119,6 +121,7 @@ Generally, links are organized from bottom to top with bottom being more recent.
 - [Z-Library](https://singlelogin.re/) - *([Solanaceae](https://github.com/Atropa-Solanaceae))*
 - [libgen](https://libgen.li/) - *([Solanaceae](https://github.com/Atropa-Solanaceae))*
 - [Ebook Search Engine](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8#gsc.tab=0) - *([Solanaceae](https://github.com/Atropa-Solanaceae))*
+- [Cracking Bible](https://mega.nz/folder/JRQgwCaK#1A6gll3m8BV046ZKW7wqaQ) - resources on reverse engineering *(Sushi)*
 
 ## Malware Analysis & Databases
 - [Virustotal](https://www.virustotal.com/gui/home/upload) - malware database. *([At0m](https://github.com/atomiczsec))*
